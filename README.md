@@ -78,3 +78,11 @@ O AquaSentry representa uma solução inovadora para monitoramento ambiental em 
 Ao possibilitar a análise detalhada das condições ambientais e promover a conscientização sobre a importância da saúde dos oceanos, o AquaSentry desempenha um papel fundamental na proteção dos ecossistemas marinhos e na promoção de práticas de conservação sustentáveis.
 
 Com sua facilidade de uso e funcionalidades avançadas, o AquaSentry é uma escolha ideal para pesquisadores, conservacionistas e comunidades costeiras interessadas em monitorar e proteger os ambientes marinhos.
+
+## Links
+<h4>Simulação no Wokwi:</h4>
+[link](https://wokwi.com/projects/399681078833257473)
+<h4>Vídeo Explicativo:</h4>
+https://youtu.be/JueyW2pFF8A?si=qLymoHUlreFsXdXK
+<h4>Repositório no GitHub:</h4>
+[link](https://github.com/aquasentry/AquaSentry-GS-Edge)
